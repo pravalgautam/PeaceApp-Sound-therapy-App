@@ -5,3 +5,4 @@
 ![p3](https://github.com/pravalgautam/PeaceApp-Sound-therapy-App/assets/71179696/6af8de0f-9829-4c67-9839-8b5a4091a30f)
 ![p2](https://github.com/pravalgautam/PeaceApp-Sound-therapy-App/assets/71179696/0ef5a450-a6de-482f-b807-55a34e96444a)
 ![p1](https://github.com/pravalgautam/PeaceApp-Sound-therapy-App/assets/71179696/c39f864e-8192-4984-8ce0-5161c36adc9c)
+![p6](https://github.com/pravalgautam/PeaceApp-Sound-therapy-App/assets/71179696/6c9280cc-f422-494b-841c-323ff5df6fbc)
